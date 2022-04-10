@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+10년차 프로그래머
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+- 주로 Rust, C++, Python을 사용하고 있습니다.
+- 백엔드 위주의 경력을 가지고 있으나, 무엇하나 신통치 않습니다.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wufniks@gmail.com](mailto:wufniks@gmail.com)
